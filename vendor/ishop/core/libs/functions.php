@@ -1,9 +1,8 @@
 <?php
 
-function debug($arr = null, $die =1){
+function debug($arr = null){
     echo 'Debug:<br>';
     echo '<pre>' . print_r($arr, true) . '</pre>';
-    if ($die) die;
 }
 
 function redirect($http = false) {
