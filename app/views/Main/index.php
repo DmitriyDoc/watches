@@ -14,7 +14,7 @@
         </ul>
     </div>
     <div class="clearfix"> </div>
-</div>
+</div> 
 <!--banner-ends-->
 <!--about-starts-->
 <?php if($brands):?>
