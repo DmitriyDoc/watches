@@ -2329,3 +2329,6 @@
 [2020-11-08 15:31:23] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
         
 ==================
+[2020-11-08 18:18:59] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 38
+        
+==================
