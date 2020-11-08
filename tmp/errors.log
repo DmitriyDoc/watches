@@ -2332,3 +2332,54 @@
 [2020-11-08 18:18:59] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 38
         
 ==================
+[2020-11-08 20:17:59] Текст ошибки: Plugin 'finedAll' does not exist, add this plugin using: R::ext('finedAll') | Файл: D:\OpenServer\domains\shop.watches\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 3349
+        
+==================
+[2020-11-08 20:20:08] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2020-11-08 20:31:20] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2020-11-08 20:40:37] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2020-11-08 20:53:18] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2020-11-08 20:55:52] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2020-11-08 21:04:27] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2020-11-08 21:04:43] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2020-11-08 21:05:37] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2020-11-08 21:06:38] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2020-11-08 21:07:30] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2020-11-08 21:07:43] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2020-11-08 21:09:57] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2020-11-08 21:10:08] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2020-11-08 21:10:26] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2020-11-08 21:11:08] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2020-11-08 21:11:13] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
