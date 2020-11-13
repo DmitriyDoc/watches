@@ -106,7 +106,7 @@
                             <div class="quantity">
                                 <input type="number" size="4" value="1" name="quantity" min="1" step="1">
                             </div>
-                            <a href="cart/add?id=<?=$product->id;?>" data-id="<?=$product->id;?>" id="productAdd" class="add-cart item_add add-to-cat-link">ADD TO CART</a>
+                            <a href="cart/add?id=<?=$product->id;?>" data-id="<?=$product->id;?>" id="productAdd" class="add-cart item_add add-to-cart-link">ADD TO CART</a>
 
                         </div>
                     </div>
