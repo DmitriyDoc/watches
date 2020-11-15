@@ -17,7 +17,13 @@ $('body').on('click', '.add-to-cart-link', function(e) {
     });
 });
 function showCart(cart){
-    console.log(cart);
+   if($.trim(cart) == '<h3>Корзина пуста</h3>'){
+       $('#btn-order', '#btn-reset').css('display', 'none');
+   } else {
+       $('#btn-order', '#btn-reset').css('display', 'inline-block');
+   }
+   $('#cart .modal-body').html(cart);
+   $('#cart').modal();
 }
 /*Cart*/
 
