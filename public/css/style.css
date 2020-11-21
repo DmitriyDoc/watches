@@ -3084,3 +3084,7 @@ table{
 #cart table img {
 	height: 50px;
 }
+
+.del-item {
+	cursor: pointer;
+}
