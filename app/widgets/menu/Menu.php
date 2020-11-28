@@ -7,6 +7,7 @@ namespace app\widgets\menu;
 use ishop\App;
 use ishop\Cache;
 
+
 class Menu
 {
     protected $data;
