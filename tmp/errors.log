@@ -3316,3 +3316,12 @@
 [2020-11-28 15:43:19] Текст ошибки: Не найден вид D:\OpenServer\domains\shop.watches/app/views/Category/view.php | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\base\View.php | Строка: 41
         
 ==================
+[2020-11-28 22:12:11] Текст ошибки: Контроллер app\controllers\UserController не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 38
+        
+==================
+[2020-11-28 22:12:14] Текст ошибки: Контроллер app\controllers\UserController не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 38
+        
+==================
+[2020-11-28 22:12:37] Текст ошибки: Контроллер app\controllers\UserController не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 38
+        
+==================
