@@ -24,6 +24,14 @@ abstract class Model
         }
     }
 
+    public function save($table){
+        $tbl = \R::dispense($table);
+        foreach ($this->attributes as $name => $value){
+            $tbl->$name = $value;
+        }
+        return \R::store($tbl);
+    }
+
     public function validate($data){
         Validator::lang('ru');
         $v = new Validator($data);
@@ -40,7 +48,7 @@ abstract class Model
         $errors = '<ul>';
         foreach ($this->errors as $error){
             foreach ($error as $item){
-                $errors .= "<li>$item</li>";
+                $errors .= "<li> Поле: $item</li>";
             }
         }
         $errors .= '</ul>';

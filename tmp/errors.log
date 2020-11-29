@@ -3334,3 +3334,36 @@
 [2020-11-29 13:44:57] Текст ошибки: Rule 'lenghtMin' has not been registered with Valitron\Validator::addRule(). | Файл: D:\OpenServer\domains\shop.watches\vendor\vlucas\valitron\src\Valitron\Validator.php | Строка: 1396
         
 ==================
+[2020-11-29 15:02:49] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'address' in 'field list' | Файл: D:\OpenServer\domains\shop.watches\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 202
+        
+==================
+[2020-11-29 15:04:35] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'address' in 'field list' | Файл: D:\OpenServer\domains\shop.watches\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 202
+        
+==================
+[2020-11-29 15:04:55] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'address' in 'field list' | Файл: D:\OpenServer\domains\shop.watches\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 202
+        
+==================
+[2020-11-29 15:07:19] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2020-11-29 15:07:50] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2020-11-29 15:08:03] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'address' in 'field list' | Файл: D:\OpenServer\domains\shop.watches\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 202
+        
+==================
+[2020-11-29 15:08:30] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2020-11-29 15:09:04] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2020-11-29 15:09:34] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2020-11-29 15:09:51] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2020-11-29 15:12:31] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
