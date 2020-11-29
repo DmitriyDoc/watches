@@ -3325,3 +3325,12 @@
 [2020-11-28 22:12:37] Текст ошибки: Контроллер app\controllers\UserController не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 38
         
 ==================
+[2020-11-29 13:20:56] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2020-11-29 13:44:18] Текст ошибки: Rule 'lenghtMin' has not been registered with Valitron\Validator::addRule(). | Файл: D:\OpenServer\domains\shop.watches\vendor\vlucas\valitron\src\Valitron\Validator.php | Строка: 1396
+        
+==================
+[2020-11-29 13:44:57] Текст ошибки: Rule 'lenghtMin' has not been registered with Valitron\Validator::addRule(). | Файл: D:\OpenServer\domains\shop.watches\vendor\vlucas\valitron\src\Valitron\Validator.php | Строка: 1396
+        
+==================
