@@ -3082,7 +3082,8 @@ table{
 	width: 100%;
 }
 
-#cart table img {
+.cart table img,
+#cart img {
 	height: 50px;
 }
 

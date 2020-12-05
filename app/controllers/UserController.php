@@ -46,4 +46,8 @@ class UserController extends AppController
         if (isset($_SESSION['user'])) unset($_SESSION['user']);
         redirect(PATH);
     }
+
+    public function checkoutAction(){
+
+    }
 }
