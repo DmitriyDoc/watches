@@ -3385,3 +3385,21 @@
 [2020-11-29 21:24:12] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
         
 ==================
+[2020-11-30 18:54:54] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2020-11-30 18:54:54] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2020-12-04 21:39:14] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2020-12-05 11:52:13] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2020-12-05 17:25:10] Текст ошибки: Не найден вид D:\OpenServer\domains\shop.watches/app/views/User/logout.php | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\base\View.php | Строка: 41
+        
+==================
+[2020-12-05 17:29:06] Текст ошибки: Метод app\controllers\UserController::PATHAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
