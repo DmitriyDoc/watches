@@ -1,8 +1,11 @@
 <?php
 return [
-    'email_admin' => 'admin@gmail.com',
+    'admin_email' => 'dimitr250984@gmail.com',
     'shop_name' => 'Магазин shop.watches',
     'pagination' => 3,
-    'smtp_login' => '',
-    'smtp_password' => '',
+    'smtp_host' => 'smtp.mail.ru',
+    'smtp_port' => '465',
+    'smtp_protocol' => 'ssl',
+    'smtp_login' => 'edupret@mail.ru',
+    'smtp_password' => '25ithdlsa84',
 ];
