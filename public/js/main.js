@@ -1,40 +1,37 @@
-/*Filters*/
-$('body').on('change', '.w_sidebar input', function () {
+/* Filters */
+$('body').on('change', '.w_sidebar input', function(){
     var checked = $('.w_sidebar input:checked'),
         data = '';
     checked.each(function () {
         data += this.value + ',';
     });
-    if (data){
-       $.ajax({
+    if(data){
+        $.ajax({
             url: location.href,
             data: {filter: data},
             type: 'GET',
-            beforeSend: function() {
-                $('.preloader').fadeIn(300, function () {
+            beforeSend: function(){
+                $('.preloader').fadeIn(300, function(){
                     $('.product-one').hide();
                 });
             },
-
-           success: function (res) {
-               $('.preloader').delay(500).fadeOut('slow', function () {
-                   $('.product-one').html(res).fadeIn();
-                   var url = location.search.replace(/filter(.+?)(&|$)/g,'');
-                   var newURL = location.pathname + url + (location.search ? "&" : "?") + "filter" + data;
-                   newURL = newURL.replace('&&', '&');
-                   newURL = newURL.replace('?&', '?');
-                   history.pushState({},'',newURL);
-               });
-           },
-
-           error: function () {
+            success: function(res){
+                $('.preloader').delay(500).fadeOut('slow', function(){
+                    $('.product-one').html(res).fadeIn();
+                    var url = location.search.replace(/filter(.+?)(&|$)/g, ''); //$2
+                    var newURL = location.pathname + url + (location.search ? "&" : "?") + "filter=" + data;
+                    newURL = newURL.replace('&&', '&');
+                    newURL = newURL.replace('?&', '?');
+                    history.pushState({}, '', newURL);
+                });
+            },
+            error: function () {
                 alert('Ошибка!');
-           }
-       });
-    }else {
+            }
+        });
+    }else{
         window.location = location.pathname;
     }
-
 });
 
 /*Search*/

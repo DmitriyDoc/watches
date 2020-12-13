@@ -27,7 +27,13 @@ class CategoryController extends AppController {
         $perpage = App::$app->getProperty('pagination');
 
         $sql_part = '';
-        if (!empty($_GET['filter'])){
+        if(!empty($_GET['filter'])){
+            /*
+            SELECT `product`.*  FROM `product`  WHERE category_id IN (6) AND id IN
+            (
+            SELECT product_id FROM attribute_product WHERE attr_id IN (1,5)
+            )
+            */
             $filter = Filter::getFilter();
             $sql_part = "AND id IN (SELECT product_id FROM attribute_product WHERE attr_id IN ($filter))";
         }
@@ -38,8 +44,8 @@ class CategoryController extends AppController {
 
         $products = \R::find('product', "category_id IN ($ids) $sql_part LIMIT $start, $perpage");
 
-        if ($this->isAjax()){
-            $this->loadView('filter', compact('products','total', 'pagination' ));
+        if($this->isAjax()){
+            $this->loadView('filter', compact('products', 'total', 'pagination'));
         }
 
         $this->setMeta($category->title, $category->description, $category->keywords);
