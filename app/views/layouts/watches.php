@@ -3,13 +3,14 @@
 <head>
     <?= $this->getMeta();?>
     <base href="/">
-<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
-    <!--Megamenu-plugin-->
-<link href="megamenu/css/ionicons.min.css" rel="stylesheet" type="text/css" media="all" />
-<link href="megamenu/css/style.css" rel="stylesheet" type="text/css" media="all" />
-<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
-<!--jQuery(necessary for Bootstrap's JavaScript plugins)-->
-<!--Custom-Theme-files-->
+    <link rel="shortcut icon" href="images/star.png" type="image/png">
+    <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+        <!--Megamenu-plugin-->
+    <link href="megamenu/css/ionicons.min.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="megamenu/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
+    <!--jQuery(necessary for Bootstrap's JavaScript plugins)-->
+    <!--Custom-Theme-files-->
     <!--theme-style-->
     <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
     <!--//theme-style-->
