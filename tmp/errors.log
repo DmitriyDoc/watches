@@ -4366,3 +4366,69 @@
 [2020-12-20 13:20:45] Текст ошибки: Контроллер app\controllers\admin\OrderController не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 38
         
 ==================
+[2020-12-20 17:08:00] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2020-12-20 19:02:47] Текст ошибки: Контроллер app\controllers\admin\OrderController не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 38
+        
+==================
+[2020-12-20 20:56:36] Текст ошибки: Контроллер app\controllers\admin\OrderController не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 38
+        
+==================
+[2020-12-20 21:26:31] Текст ошибки: Метод app\controllers\admin\OrderController::ViewAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2020-12-21 19:18:35] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'order.user_id ' in 'field list' | Файл: D:\OpenServer\domains\shop.watches\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 202
+        
+==================
+[2020-12-21 19:18:35] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2020-12-21 19:23:18] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'order.user_id ' in 'field list' | Файл: D:\OpenServer\domains\shop.watches\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 202
+        
+==================
+[2020-12-21 19:23:19] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'order.user_id ' in 'field list' | Файл: D:\OpenServer\domains\shop.watches\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 202
+        
+==================
+[2020-12-21 19:23:20] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'order.user_id ' in 'field list' | Файл: D:\OpenServer\domains\shop.watches\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 202
+        
+==================
+[2020-12-21 19:23:20] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'order.user_id ' in 'field list' | Файл: D:\OpenServer\domains\shop.watches\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 202
+        
+==================
+[2020-12-21 19:23:21] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'order.user_id ' in 'field list' | Файл: D:\OpenServer\domains\shop.watches\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 202
+        
+==================
+[2020-12-21 19:23:21] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'order.user_id ' in 'field list' | Файл: D:\OpenServer\domains\shop.watches\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 202
+        
+==================
+[2020-12-21 19:23:21] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'order.user_id ' in 'field list' | Файл: D:\OpenServer\domains\shop.watches\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 202
+        
+==================
+[2020-12-21 19:24:02] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'order.user_id ' in 'field list' | Файл: D:\OpenServer\domains\shop.watches\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 202
+        
+==================
+[2020-12-21 19:24:03] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'order.user_id ' in 'field list' | Файл: D:\OpenServer\domains\shop.watches\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 202
+        
+==================
+[2020-12-21 19:24:03] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'order.user_id ' in 'field list' | Файл: D:\OpenServer\domains\shop.watches\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 202
+        
+==================
+[2020-12-21 19:24:03] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'order.user_id ' in 'field list' | Файл: D:\OpenServer\domains\shop.watches\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 202
+        
+==================
+[2020-12-21 19:25:28] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'order.user_id ' in 'field list' | Файл: D:\OpenServer\domains\shop.watches\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 202
+        
+==================
+[2020-12-21 19:25:29] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'order.user_id ' in 'field list' | Файл: D:\OpenServer\domains\shop.watches\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 202
+        
+==================
+[2020-12-21 19:25:56] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'order.user_id ' in 'field list' | Файл: D:\OpenServer\domains\shop.watches\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 202
+        
+==================
+[2020-12-21 19:26:59] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'order.user_id3 ' in 'field list' | Файл: D:\OpenServer\domains\shop.watches\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 202
+        
+==================
+[2020-12-21 19:42:58] Текст ошибки: Метод app\controllers\admin\OrderController::ViewAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
