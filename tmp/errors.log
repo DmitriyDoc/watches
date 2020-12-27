@@ -4498,3 +4498,60 @@
 [2020-12-27 15:33:12] Текст ошибки: Метод app\controllers\admin\UserController::EditAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
         
 ==================
+[2020-12-27 16:14:54] Текст ошибки: Контроллер app\controllers\admin\LteController не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 38
+        
+==================
+[2020-12-27 16:27:25] Текст ошибки: Метод app\controllers\admin\OrderController::ChangeAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2020-12-27 16:49:14] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2020-12-27 16:49:17] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2020-12-27 16:49:17] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2020-12-27 16:49:19] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2020-12-27 16:49:19] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2020-12-27 16:49:21] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2020-12-27 16:53:01] Текст ошибки: Метод app\controllers\admin\OrderController::DeleteAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2020-12-27 16:53:08] Текст ошибки: Метод app\controllers\admin\OrderController::DeleteAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2020-12-27 16:53:11] Текст ошибки: Метод app\controllers\admin\OrderController::ChangeAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2020-12-27 16:54:12] Текст ошибки: Метод app\controllers\admin\OrderController::DeleteAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2020-12-27 16:55:02] Текст ошибки: Метод app\controllers\admin\OrderController::DeleteAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2020-12-27 16:55:04] Текст ошибки: Метод app\controllers\admin\OrderController::DeleteAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2020-12-27 16:55:30] Текст ошибки: Метод app\controllers\admin\OrderController::DeleteAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2020-12-27 16:56:30] Текст ошибки: Метод app\controllers\admin\OrderController::DeleteAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2020-12-27 16:57:18] Текст ошибки: Метод app\controllers\admin\OrderController::DeleteAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2020-12-27 17:09:34] Текст ошибки: Метод app\controllers\admin\OrderController::DeleteAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2020-12-27 17:09:37] Текст ошибки: Метод app\controllers\admin\OrderController::ChangeAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
