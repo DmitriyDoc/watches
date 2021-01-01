@@ -5,7 +5,7 @@
     </h1>
     <ol class="breadcrumb">
         <li><a href="<?=ADMIN;?>"><i class="fa fa-dashboard"></i> Главная</a></li>
-        <li><a href="<?=ADMIN;?>/category"></a>Список категорий</li>
+        <li><a href="<?=ADMIN;?>/category">Список категорий</a></li>
         <li class="active"></a> Редактирование категории <?= $category->title; ?></li>
     </ol>
 </section>
