@@ -312,36 +312,38 @@
                 <li><a href="<?= ADMIN ?>/"><i class="fa fa-home"></i> <span>Home</span></a></li>
                 <li><a href="<?= ADMIN ?>/order"><i class="fa fa-shopping-cart"></i> <span>Заказы</span></a></li>
                 <li class="treeview">
-                    <a href="#"><i class="fa fa-navicon"></i> <span>Категории</span>
+                    <a href=<?= ADMIN ?>/category><i class="fa fa-navicon"></i> <span>Категории</span>
                         <span class="pull-right-container">
-                <i class="fa fa-angle-left pull-right"></i>
+
               </span>
                     </a>
-                    <ul class="treeview-menu">
+                    <ul>
                         <li><a href="<?= ADMIN ?>/category">Список категорий</a></li>
+                        <br>
                         <li><a href="<?= ADMIN ?>/category/add">Добавить категорию</a></li>
                     </ul>
                 </li>
                 <li class="treeview">
-                    <a href="#"><i class="fa fa-cubes"></i> <span>Товары</span>
-                        <span class="pull-right-container">
+                    <a href="<?= ADMIN ?>/product"><i class="fa fa-cubes"></i> <span>Товары</span>
+
                 <i class="fa fa-angle-left pull-right"></i>
               </span>
                     </a>
-                    <ul class="treeview-menu">
+                    <ul>
                         <li><a href="<?= ADMIN ?>/product">Список товаров</a></li>
+                        <br>
                         <li><a href="<?= ADMIN ?>/product/add">Добавить товар</a></li>
                     </ul>
                 </li>
                 <li><a href="<?= ADMIN ?>/cache"><i class="fa fa-database"></i> <span>Кэширование</span></a></li>
                 <li class="treeview">
-                    <a href="#"><i class="fa fa-users"></i> <span>Пользователи</span>
-                        <span class="pull-right-container">
+                    <a href="<?= ADMIN ?>/user"><i class="fa fa-users"></i> <span>Пользователи</span>
                 <i class="fa fa-angle-left pull-right"></i>
               </span>
                     </a>
-                    <ul class="treeview-menu">
+                    <ul>
                         <li><a href="<?= ADMIN ?>/user">Список пользователей</a></li>
+                        <br>
                         <li><a href="<?= ADMIN ?>/user/add">Добавить пользователя</a></li>
                     </ul>
                 </li>

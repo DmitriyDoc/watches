@@ -4621,3 +4621,63 @@
 [2021-01-01 16:19:52] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop.watches\app\controllers\admin\AppController.php | Строка: 32
         
 ==================
+[2021-01-01 16:44:10] Текст ошибки: Метод app\controllers\admin\CategoryController::AddAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2021-01-01 16:45:44] Текст ошибки: Метод app\controllers\admin\CategoryController::AddAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2021-01-01 16:49:19] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2021-01-01 16:50:00] Текст ошибки: Контроллер app\controllers\admin\ProductController не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 38
+        
+==================
+[2021-01-01 16:50:03] Текст ошибки: Контроллер app\controllers\admin\ProductController не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 38
+        
+==================
+[2021-01-01 16:50:06] Текст ошибки: Контроллер app\controllers\admin\ProductController не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 38
+        
+==================
+[2021-01-01 16:50:24] Текст ошибки: Метод app\controllers\admin\UserController::IndexAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2021-01-01 16:50:27] Текст ошибки: Метод app\controllers\admin\UserController::IndexAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2021-01-01 16:50:30] Текст ошибки: Контроллер app\controllers\admin\CacheController не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 38
+        
+==================
+[2021-01-01 16:59:02] Текст ошибки: Метод app\controllers\admin\CategoryController::AddAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2021-01-01 16:59:05] Текст ошибки: Метод app\controllers\admin\CategoryController::AddAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2021-01-01 16:59:07] Текст ошибки: Метод app\controllers\admin\CategoryController::AddAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2021-01-01 16:59:07] Текст ошибки: Метод app\controllers\admin\CategoryController::AddAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2021-01-01 16:59:09] Текст ошибки: Метод app\controllers\admin\CategoryController::AddAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2021-01-01 17:03:29] Текст ошибки: Метод app\controllers\admin\CategoryController::AddAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2021-01-01 17:05:46] Текст ошибки: Контроллер app\controllers\admin\ProductController не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 38
+        
+==================
+[2021-01-01 17:05:53] Текст ошибки: Контроллер app\controllers\admin\ProductController не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 38
+        
+==================
+[2021-01-01 17:11:15] Текст ошибки: Метод app\controllers\admin\CategoryController::AddAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2021-01-01 17:13:41] Текст ошибки: Метод app\controllers\admin\CategoryController::AddAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2021-01-01 17:13:44] Текст ошибки: Контроллер app\controllers\admin\ProductController не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 38
+        
+==================
