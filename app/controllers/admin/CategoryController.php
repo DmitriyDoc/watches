@@ -54,4 +54,30 @@ class CategoryController extends AppController
         }
         $this->setMeta('Новая категория');
     }
+
+    public function editAction(){
+        if (!empty($_POST)){
+            $id = $this->getRequestId(false);
+            $category = new Category();
+            $data = $_POST;
+            $category->load($data);
+            if (!$category->validate($data)){
+                $category->getErrors();
+                redirect();
+            }
+            if ($category->update('category', $id)){
+                $alias = AppModel::createAlias('category', 'alias', $data['title'], $id);
+                $category = \R::load('category', $id);
+                $category->alias = $alias;
+                \R::store($category);
+                $_SESSION['success'] = 'Изменения сохранены';
+            }
+            redirect();
+        }
+        $id = $this->getRequestId();
+        $category = \R::load('category', $id);
+        App:$app->setProperty('parent_id', $category->parent_id);
+        $this->setMeta("Редактирование категории {$category->title}");
+        $this->set(compact('category'));
+    }
 }

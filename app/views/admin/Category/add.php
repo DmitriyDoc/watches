@@ -43,13 +43,11 @@
                             <div class="form-group has-feedback">
                                 <lable for="keywords">Ключевые слова</lable>
                                 <input type="text" name="keywords" class="form-control" id="keywords" placeholder="Ключевые слова">
-                                <span class="glyphicon form-control-feedback"></span>
                             </div>
 
                             <div class="form-group has-feedback">
                                 <lable for="description">Описание</lable>
                                 <input type="text" name="description" class="form-control" id="description" placeholder="Описание">
-                                <span class="glyphicon form-control-feedback"></span>
                             </div>
                         </div>
                         <div class="box-footer">
