@@ -4555,3 +4555,69 @@
 [2020-12-27 17:09:37] Текст ошибки: Метод app\controllers\admin\OrderController::ChangeAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
         
 ==================
+[2020-12-30 22:27:31] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2020-12-30 22:27:38] Текст ошибки: Метод app\controllers\admin\UserController::EditAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2021-01-01 15:10:24] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2021-01-01 15:11:04] Текст ошибки: Метод app\controllers\admin\UserController::EditAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2021-01-01 15:51:58] Текст ошибки: Метод app\controllers\admin\CategoryController::EditAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2021-01-01 15:53:00] Текст ошибки: Метод app\controllers\admin\CategoryController::EditAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2021-01-01 15:53:09] Текст ошибки: Метод app\controllers\admin\CategoryController::EditAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2021-01-01 15:55:22] Текст ошибки: Метод app\controllers\admin\CategoryController::EditAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2021-01-01 15:55:25] Текст ошибки: Метод app\controllers\admin\CategoryController::EditAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2021-01-01 15:55:27] Текст ошибки: Метод app\controllers\admin\CategoryController::EditAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2021-01-01 15:56:24] Текст ошибки: Метод app\controllers\admin\CategoryController::EditAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2021-01-01 15:56:28] Текст ошибки: Метод app\controllers\admin\CategoryController::EditAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2021-01-01 15:56:31] Текст ошибки: Метод app\controllers\admin\CategoryController::EditAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2021-01-01 15:56:34] Текст ошибки: Метод app\controllers\admin\CategoryController::EditAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2021-01-01 15:56:36] Текст ошибки: Метод app\controllers\admin\CategoryController::EditAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2021-01-01 15:56:39] Текст ошибки: Метод app\controllers\admin\CategoryController::EditAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2021-01-01 15:56:49] Текст ошибки: Метод app\controllers\admin\CategoryController::EditAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2021-01-01 16:08:27] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop.watches\app\controllers\admin\AppController.php | Строка: 32
+        
+==================
+[2021-01-01 16:08:27] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2021-01-01 16:19:06] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop.watches\app\controllers\admin\AppController.php | Строка: 32
+        
+==================
+[2021-01-01 16:19:47] Текст ошибки: Метод app\controllers\admin\CategoryController::EditAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2021-01-01 16:19:52] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\domains\shop.watches\app\controllers\admin\AppController.php | Строка: 32
+        
+==================
