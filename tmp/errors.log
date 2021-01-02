@@ -4711,3 +4711,21 @@
 [2021-01-01 22:56:34] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
         
 ==================
+[2021-01-01 23:19:38] Текст ошибки: Метод app\controllers\admin\UserController::IndexAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2021-01-02 21:53:32] Текст ошибки: Метод app\controllers\admin\UserController::IndexAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2021-01-02 21:53:33] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2021-01-02 22:46:40] Текст ошибки: Не найден вид D:\OpenServer\domains\shop.watches/app/views/admin\User/edit.php | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\base\View.php | Строка: 41
+        
+==================
+[2021-01-02 22:52:14] Текст ошибки: Не найден вид D:\OpenServer\domains\shop.watches/app/views/admin\User/edit.php | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\base\View.php | Строка: 41
+        
+==================
+[2021-01-02 23:28:28] Текст ошибки: Метод app\controllers\admin\UserController::AddAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
