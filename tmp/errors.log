@@ -4729,3 +4729,9 @@
 [2021-01-02 23:28:28] Текст ошибки: Метод app\controllers\admin\UserController::AddAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
         
 ==================
+[2021-01-03 12:38:08] Текст ошибки: Метод app\controllers\admin\UserController::AddAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2021-01-03 12:38:08] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
