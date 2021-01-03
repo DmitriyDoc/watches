@@ -42,7 +42,7 @@
 
                         <div class="form-group has-feedback">
                             <lable for="adress">Адрес</lable>
-                            <input type="text" class="form-control" name="adress" id="adress" value="<?= h($user->adress); ?>" required>
+                            <input type="text" class="form-control" name="adress" id="adress" value="<?= h($user->address); ?>" required>
                             <span class="glyphicon form-control-feedback"></span>
                         </div>
 
