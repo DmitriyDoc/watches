@@ -4735,3 +4735,18 @@
 [2021-01-03 12:38:08] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
         
 ==================
+[2021-01-03 15:31:49] Текст ошибки: Контроллер app\controllers\admin\ProductController не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 38
+        
+==================
+[2021-01-03 15:31:55] Текст ошибки: Контроллер app\controllers\admin\ProductController не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 38
+        
+==================
+[2021-01-03 15:32:06] Текст ошибки: Контроллер app\controllers\admin\ProductController не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 38
+        
+==================
+[2021-01-03 19:39:08] Текст ошибки: Метод app\controllers\admin\ProductController::EditAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2021-01-03 19:39:15] Текст ошибки: Метод app\controllers\admin\ProductController::DeleteAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
