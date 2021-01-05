@@ -60,4 +60,4 @@
     </div>
 
 </section>
-<!-- /.content --><?php
+<!-- /.content -->
