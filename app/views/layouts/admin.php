@@ -589,8 +589,9 @@
 
 <script src="/js/validator.js"></script>
 
-<!-- Bootstrap WYSIHTML5 -->
-<script src="plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js"></script>
+<!-- AdminLTE App -->
+<script src="dist/js/adminlte.min.js"></script>
+<script src="bower_components/ckeditor/ckeditor.js"></script>
 <script src="my_custom.js"></script>
 <?php
     $logs = \R::getDatabaseAdapter()

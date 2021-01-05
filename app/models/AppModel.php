@@ -6,7 +6,6 @@ use ishop\base\Model;
 
 class AppModel extends Model{
 
-
     public static function createAlias($table, $field, $str, $id){
         $str = self::str2url($str);
         $res = \R::findOne($table, "$field = ?", [$str]);

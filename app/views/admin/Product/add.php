@@ -112,6 +112,8 @@
                                 Хит
                             </lable>
                         </div>
+
+
                     </div>
                     <div class="box-footer">
                         <button type="submit" class="btn btn-success"> Добавить</button>
