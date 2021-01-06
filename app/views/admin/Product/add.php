@@ -113,7 +113,7 @@
                             </lable>
                         </div>
 
-
+                        <?php new \app\widgets\filter\Filter(null, WWW . '/filter/admin_filter_tpl.php'); ?>
                     </div>
                     <div class="box-footer">
                         <button type="submit" class="btn btn-success"> Добавить</button>

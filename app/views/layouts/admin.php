@@ -575,23 +575,18 @@
     var path = '<?=PATH;?>',
         adminpath = '<?=ADMIN;?>';
 </script>
+<script src="bower_components/jquery/dist/jquery.min.js"></script>
 
-<!-- jQuery 2.2.3 -->
-<script src="plugins/jQuery/jquery-2.2.3.min.js"></script>
-<!-- jQuery UI 1.11.4 -->
-<script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
-<!-- Resolve conflict in jQuery UI tooltip with Bootstrap tooltip -->
-<script>
-    $.widget.bridge('uibutton', $.ui.button);
-</script>
 <!-- Bootstrap 3.3.6 -->
-<script src="bootstrap/js/bootstrap.min.js"></script>
+<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
 
 <script src="/js/validator.js"></script>
+<script src="bower_components/fastclick/lib/fastclick.js"></script>
 
 <!-- AdminLTE App -->
 <script src="dist/js/adminlte.min.js"></script>
 <script src="bower_components/ckeditor/ckeditor.js"></script>
+<script src="bower_components/ckeditor/adapters/jquery.js"></script>
 <script src="my_custom.js"></script>
 <?php
     $logs = \R::getDatabaseAdapter()
