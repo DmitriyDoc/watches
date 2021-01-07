@@ -16,3 +16,60 @@
 [2021-01-06 21:51:59] Текст ошибки: Метод app\controllers\admin\ProductController::EditAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
         
 ==================
+[2021-01-07 20:12:06] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2021-01-07 20:31:15] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2021-01-07 20:31:15] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2021-01-07 20:31:29] Текст ошибки: Старница не найдена | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 41
+        
+==================
+[2021-01-07 20:50:42] Текст ошибки: Метод app\controllers\admin\ProductController::RelatedProductAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2021-01-07 20:50:47] Текст ошибки: Метод app\controllers\admin\ProductController::RelatedProductAction не найден | Файл: D:\OpenServer\domains\shop.watches\vendor\ishop\core\Router.php | Строка: 35
+        
+==================
+[2021-01-07 21:00:07] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S' at line 1 | Файл: D:\OpenServer\domains\shop.watches\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 202
+        
+==================
+[2021-01-07 21:00:09] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S' at line 1 | Файл: D:\OpenServer\domains\shop.watches\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 202
+        
+==================
+[2021-01-07 21:00:12] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S' at line 1 | Файл: D:\OpenServer\domains\shop.watches\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 202
+        
+==================
+[2021-01-07 21:00:15] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S' at line 1 | Файл: D:\OpenServer\domains\shop.watches\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 202
+        
+==================
+[2021-01-07 21:00:17] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S' at line 1 | Файл: D:\OpenServer\domains\shop.watches\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 202
+        
+==================
+[2021-01-07 21:00:17] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S' at line 1 | Файл: D:\OpenServer\domains\shop.watches\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 202
+        
+==================
+[2021-01-07 21:00:18] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S' at line 1 | Файл: D:\OpenServer\domains\shop.watches\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 202
+        
+==================
+[2021-01-07 21:00:19] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S' at line 1 | Файл: D:\OpenServer\domains\shop.watches\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 202
+        
+==================
+[2021-01-07 21:00:20] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S' at line 1 | Файл: D:\OpenServer\domains\shop.watches\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 202
+        
+==================
+[2021-01-07 21:00:21] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S' at line 1 | Файл: D:\OpenServer\domains\shop.watches\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 202
+        
+==================
+[2021-01-07 21:00:23] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S' at line 1 | Файл: D:\OpenServer\domains\shop.watches\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 202
+        
+==================
+[2021-01-07 21:00:36] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S' at line 1 | Файл: D:\OpenServer\domains\shop.watches\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 202
+        
+==================
+[2021-01-07 21:00:38] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S' at line 1 | Файл: D:\OpenServer\domains\shop.watches\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 202
+        
+==================

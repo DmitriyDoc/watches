@@ -113,6 +113,11 @@
                             </lable>
                         </div>
 
+                        <div class="form-group">
+                            <lable for="related">Связанные товары</lable>
+                            <select name="related[]" class="form-control select2" id="related" multiple></select>
+                        </div>
+
                         <?php new \app\widgets\filter\Filter(null, WWW . '/filter/admin_filter_tpl.php'); ?>
                     </div>
                     <div class="box-footer">
