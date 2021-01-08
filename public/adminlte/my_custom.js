@@ -81,6 +81,7 @@ new AjaxUpload(buttonMulti, {
 
     },
     onComplete: function(file, response){
+
         setTimeout(function(){
             buttonMulti.closest('.file-upload').find('.overlay').css({'display':'none'});
 
@@ -89,3 +90,4 @@ new AjaxUpload(buttonMulti, {
         }, 1000);
     }
 });
+
