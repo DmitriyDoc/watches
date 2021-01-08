@@ -579,6 +579,8 @@
 </script>
 <script src="bower_components/jquery/dist/jquery.min.js"></script>
 
+<script src="/js/ajaxupload.js"></script>
+
 <!-- Bootstrap 3.3.6 -->
 <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
 <script src="bower_components/select2/dist/js/select2.full.js"></script>

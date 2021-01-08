@@ -8,4 +8,8 @@ return [
     'smtp_protocol' => 'ssl',
     'smtp_login' => 'edupret@mail.ru',
     'smtp_password' => '25ithdlsa84',
+    'img_width' => '125',
+    'img_height' => '200',
+    'gallery_width' => '700',
+    'gallery_height' => '1000',
 ];
